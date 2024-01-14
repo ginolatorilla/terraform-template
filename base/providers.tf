@@ -1,3 +1,5 @@
 provider "local" {
-  # Configuration options
+}
+
+provider "random" {
 }
